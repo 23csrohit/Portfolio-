@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://portfolio-git-main-utkarsh462255.vercel.app/)
+### Weblink: [Live Website](https://portfolio-two-self-49.vercel.app/)
 
 ## Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
@@ -20,7 +20,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - GitHub Pages: A platform for hosting and deploying web applications.
 ## Installation
 To run this portfolio locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/utkarsh462255/portfolio.git`
+1. Clone the repository: `git clone https://github.com/23csrohit/Portfolio-`
 2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
